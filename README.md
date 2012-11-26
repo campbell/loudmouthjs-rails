@@ -1,6 +1,8 @@
 # Loudmouthjs::Rails
 
-TODO: Write a gem description
+LoudmouthJS-Rails includes the [Loudmouth](http://code.livingsocial.net/petecampbell/loudmouth) JavaScript library into your application.
+
+One problem with JavaScript is that it can fail silently. Loudmouth is intended to make these failures much more obvious in development mode. It can also quietly capture errors in production and report them back to your server.
 
 ## Installation
 
@@ -18,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See [Loudmouth](http://code.livingsocial.net/petecampbell/loudmouth)
 
 ## Contributing
 
