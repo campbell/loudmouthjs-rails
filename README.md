@@ -18,9 +18,20 @@ Or install it yourself as:
 
     $ gem install loudmouthjs-rails
 
+Next, add this to your application.js file:
+
+    //= require loudmouth
+
+then restart your server.
+
+
 ## Usage
 
-See [Loudmouth](https://github.com/livingsocial/loudmouth)
+You'll need to tell Loudmouth to start watching:
+
+  Loudmouth.watch()
+
+See the [Loudmouth](https://github.com/livingsocial/loudmouth) repo for more details.
 
 ## LICENSE:
 
